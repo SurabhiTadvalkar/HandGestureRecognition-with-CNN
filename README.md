@@ -21,4 +21,7 @@ Example of how the pictures look:
 | 9 | down |<img src = "https://user-images.githubusercontent.com/52841122/192183135-1f3145a9-f706-4e0d-bd75-45de3cf5cafa.png" width = "320">|
 
 ## Model
-<img src = "https://user-images.githubusercontent.com/52841122/192361128-08a0be61-d423-4be8-bc0b-46d70e071782.JPG" width = "400">
+<img src = "https://user-images.githubusercontent.com/52841122/192361128-08a0be61-d423-4be8-bc0b-46d70e071782.JPG" width = "450">
+
+## Training
+<img src = "https://user-images.githubusercontent.com/52841122/192362697-70f33095-29a7-497d-8f7a-55efcb33252e.JPG" width = "700">
