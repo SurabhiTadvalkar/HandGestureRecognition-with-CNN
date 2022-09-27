@@ -25,3 +25,10 @@ Example of how the pictures look:
 
 ## Training
 <img src = "https://user-images.githubusercontent.com/52841122/192362697-70f33095-29a7-497d-8f7a-55efcb33252e.JPG" width = "700">
+
+![cnn accuracy](https://user-images.githubusercontent.com/52841122/192432767-b7bfbf42-c314-491f-8460-d4db9eb392bf.JPG)
+![cnnloss](https://user-images.githubusercontent.com/52841122/192432795-3b795d3c-549e-456d-9e06-9644cf5911f8.JPG)
+
+
+## Testing
+When evaluating the model against the test set, the Test accuracy = 0.9994999766349792 and the Test Loss = 0.005492622498422861
